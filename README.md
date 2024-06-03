@@ -26,7 +26,7 @@ for file in os.listdir("/path/to/your/logs"):
 ___________________________________________________________________________________________________________________________________________________
 
 
-
+  
 ## Run the script the file 
  " chmod +x check_permissions.sh  "  
  " ./check_permissions.sh /path/of/your/filename.txt"
