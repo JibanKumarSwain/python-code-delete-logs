@@ -29,6 +29,6 @@ ________________________________________________________________________________
 
 ## Run the script the file 
  " chmod +x check_permissions.sh "  
- " ./check_permissions.sh <filename> "
+ " ./check_permissions.sh < filename > "
 
  
