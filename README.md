@@ -11,7 +11,7 @@ import time
 current_time = time.time()   
         
 three_days_ago = current_time - (3 * 24 * 60 * 60)       
-
+   
 for file in os.listdir("/path/to/your/logs"):
 
     file_path = os.path.join("/path/to/your/logs", file)
